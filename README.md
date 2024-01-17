@@ -1,0 +1,1 @@
+# Admin-Managed-User-Access-Image-Cropping
